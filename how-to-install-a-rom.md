@@ -27,7 +27,7 @@ adb reboot bootloader
 fastboot flashing unlock
 ```
 
-### flashing custom rom:
+## flashing custom rom:
 
 > the last step
 
@@ -51,8 +51,8 @@ go back to your terminal, and type:
 adb sideload custom-rom.zip
 ```
 
-### reboot to system:
+## reboot to system:
 after the sideload is done without any errors, you can click "Reboot"
 
 
-### and your done
+## and your done
